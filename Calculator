@@ -1,2 +1,8 @@
 Console.WriteLine("My name is Maryam Zahid");
 Console.WriteLine("my roll number is 10");
+int a;
+int b;
+int a+b;
+Console.WriteLine($"the addition of two numbers");
+int a = Convert.ToInt32(Console.ReadLine());
+int b = Convert.ToInt32(Console.ReadLine());
